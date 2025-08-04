@@ -32,3 +32,7 @@ string barcodeApiKey = ""; // <-- PASTE YOUR BARCODELOOKUP.COM API KEY HERE
 
 // 2. Get your free API key from Google AI Studio
 string geminiApiKey = ""; // <-- PASTE YOUR GEMINI API KEY HERE
+```
+## Acknowledgements
+
+* Globe icon used in this project was created by [IconsNova - Flaticon](https://www.flaticon.com/free-icon/earth_9985721).
